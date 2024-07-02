@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vali\\Desktop\\StayIn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|c:\\users\\vali\\desktop\\stayin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|c:\\users\\vali\\desktop\\stayin\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|solutionrelative:controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|c:\\users\\vali\\desktop\\stayin\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|c:\\users\\vali\\desktop\\stayin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|c:\\users\\vali\\desktop\\stayin\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|c:\\users\\vali\\desktop\\stayin\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|solutionrelative:interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|c:\\users\\vali\\desktop\\stayin\\dto\\customer\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|solutionrelative:dto\\customer\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|c:\\users\\vali\\desktop\\stayin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|c:\\users\\vali\\desktop\\stayin\\interfaces\\irestaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|solutionrelative:interfaces\\irestaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|c:\\users\\vali\\desktop\\stayin\\controllers\\adresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|solutionrelative:controllers\\adresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|c:\\users\\vali\\desktop\\stayin\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|solutionrelative:controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|c:\\users\\vali\\desktop\\stayin\\controllers\\customer_adresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|solutionrelative:controllers\\customer_adresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|c:\\users\\vali\\desktop\\stayin\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|c:\\users\\vali\\desktop\\stayin\\controllers\\deliveryguycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|solutionrelative:controllers\\deliveryguycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|c:\\users\\vali\\desktop\\stayin\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|solutionrelative:controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|c:\\users\\vali\\desktop\\stayin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|c:\\users\\vali\\desktop\\stayin\\controllers\\ordermenuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|solutionrelative:controllers\\ordermenuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|c:\\users\\vali\\desktop\\stayin\\dto\\account\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|solutionrelative:dto\\account\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|c:\\users\\vali\\desktop\\stayin\\dto\\account\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|solutionrelative:dto\\account\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|c:\\users\\vali\\desktop\\stayin\\dto\\account\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|solutionrelative:dto\\account\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|c:\\users\\vali\\desktop\\stayin\\repositories\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|solutionrelative:repositories\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|c:\\users\\vali\\desktop\\stayin\\dto\\account\\newcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3783C43-2DC5-4244-9D34-6A1F74A70802}|StayIn.csproj|solutionrelative:dto\\account\\newcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 904,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vali\\Desktop\\StayIn\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\vali\\Desktop\\StayIn\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowC4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:46:07.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\vali\\Desktop\\StayIn\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\vali\\Desktop\\StayIn\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAwwI4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:42:59.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vali\\Desktop\\StayIn\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\vali\\Desktop\\StayIn\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T14:45:42.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRestaurantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vali\\Desktop\\StayIn\\Interfaces\\IRestaurantRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRestaurantRepository.cs",
+              "ToolTip": "C:\\Users\\vali\\Desktop\\StayIn\\Interfaces\\IRestaurantRepository.cs",
+              "RelativeToolTip": "Interfaces\\IRestaurantRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:20:42.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\vali\\Desktop\\StayIn\\DTO\\Account\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "DTO\\Account\\ChangePasswordDto.cs",
+              "ToolTip": "C:\\Users\\vali\\Desktop\\StayIn\\DTO\\Account\\ChangePasswordDto.cs",
+              "RelativeToolTip": "DTO\\Account\\ChangePasswordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:50:12.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\vali\\Desktop\\StayIn\\DTO\\Account\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "DTO\\Account\\ResetPasswordDto.cs",
+              "ToolTip": "C:\\Users\\vali\\Desktop\\StayIn\\DTO\\Account\\ResetPasswordDto.cs",
+              "RelativeToolTip": "DTO\\Account\\ResetPasswordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:49:49.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\vali\\Desktop\\StayIn\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\vali\\Desktop\\StayIn\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:39:07.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\vali\\Desktop\\StayIn\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\vali\\Desktop\\StayIn\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "Interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:26:31.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "C:\\Users\\vali\\Desktop\\StayIn\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RestaurantController.cs",
+              "ToolTip": "C:\\Users\\vali\\Desktop\\StayIn\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "Controllers\\RestaurantController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwB4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:06:58.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ForgotPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\vali\\Desktop\\StayIn\\DTO\\Account\\ForgotPasswordDto.cs",
+              "RelativeDocumentMoniker": "DTO\\Account\\ForgotPasswordDto.cs",
+              "ToolTip": "C:\\Users\\vali\\Desktop\\StayIn\\DTO\\Account\\ForgotPasswordDto.cs",
+              "RelativeToolTip": "DTO\\Account\\ForgotPasswordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:48:59.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RestaurantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vali\\Desktop\\StayIn\\Repositories\\RestaurantRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RestaurantRepository.cs",
+              "ToolTip": "C:\\Users\\vali\\Desktop\\StayIn\\Repositories\\RestaurantRepository.cs",
+              "RelativeToolTip": "Repositories\\RestaurantRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:45:52.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NewCustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\vali\\Desktop\\StayIn\\DTO\\Account\\NewCustomerDto.cs",
+              "RelativeDocumentMoniker": "DTO\\Account\\NewCustomerDto.cs",
+              "ToolTip": "C:\\Users\\vali\\Desktop\\StayIn\\DTO\\Account\\NewCustomerDto.cs",
+              "RelativeToolTip": "DTO\\Account\\NewCustomerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:15:37.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderMenuItemController.cs",
+              "DocumentMoniker": "C:\\Users\\vali\\Desktop\\StayIn\\Controllers\\OrderMenuItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderMenuItemController.cs",
+              "ToolTip": "C:\\Users\\vali\\Desktop\\StayIn\\Controllers\\OrderMenuItemController.cs",
+              "RelativeToolTip": "Controllers\\OrderMenuItemController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwDEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:05:59.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\vali\\Desktop\\StayIn\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\vali\\Desktop\\StayIn\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:05:14.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuItemController.cs",
+              "DocumentMoniker": "C:\\Users\\vali\\Desktop\\StayIn\\Controllers\\MenuItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MenuItemController.cs",
+              "ToolTip": "C:\\Users\\vali\\Desktop\\StayIn\\Controllers\\MenuItemController.cs",
+              "RelativeToolTip": "Controllers\\MenuItemController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:05:02.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeliveryGuyController.cs",
+              "DocumentMoniker": "C:\\Users\\vali\\Desktop\\StayIn\\Controllers\\DeliveryGuyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeliveryGuyController.cs",
+              "ToolTip": "C:\\Users\\vali\\Desktop\\StayIn\\Controllers\\DeliveryGuyController.cs",
+              "RelativeToolTip": "Controllers\\DeliveryGuyController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA5wEEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:04:59.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\vali\\Desktop\\StayIn\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\vali\\Desktop\\StayIn\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:03:52.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customer_AdressController.cs",
+              "DocumentMoniker": "C:\\Users\\vali\\Desktop\\StayIn\\Controllers\\Customer_AdressController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Customer_AdressController.cs",
+              "ToolTip": "C:\\Users\\vali\\Desktop\\StayIn\\Controllers\\Customer_AdressController.cs",
+              "RelativeToolTip": "Controllers\\Customer_AdressController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAywEUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:03:35.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\vali\\Desktop\\StayIn\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\vali\\Desktop\\StayIn\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "Controllers\\CountryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:03:12.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdressController.cs",
+              "DocumentMoniker": "C:\\Users\\vali\\Desktop\\StayIn\\Controllers\\AdressController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdressController.cs",
+              "ToolTip": "C:\\Users\\vali\\Desktop\\StayIn\\Controllers\\AdressController.cs",
+              "RelativeToolTip": "Controllers\\AdressController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwEcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:01:58.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vali\\Desktop\\StayIn\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vali\\Desktop\\StayIn\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAIsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:27:39.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 101,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\vali\\Desktop\\StayIn\\DTO\\Customer\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "DTO\\Customer\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\vali\\Desktop\\StayIn\\DTO\\Customer\\CustomerDto.cs",
+              "RelativeToolTip": "DTO\\Customer\\CustomerDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:39:15.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
